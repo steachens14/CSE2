@@ -57,7 +57,7 @@
             System.out.println("Envelopes");
             System.out.println("Cost of Envelopes:" + envelopeCost$);
             System.out.println("Number of Envelopes:" + nEnvelopes);
-            System.out.println("Total Cost of Envelopes:" + FinalEnvelopeCost$);
+            System.out.println("Total Cost of Envelopes:" + TotalEnvelopeCost$);
             System.out.println("Tax on Envelops:" + EnvelopeTax$);
             System.out.println("Final Cost of Envelopes:" + FinalEnvelopeCost$);
             
